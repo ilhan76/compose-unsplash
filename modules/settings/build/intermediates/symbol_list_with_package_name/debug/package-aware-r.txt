@@ -1,0 +1,12 @@
+ru.surf.settings
+string settings_details_about
+string settings_details_edit
+string settings_details_enable_push
+string settings_details_subtitle
+string settings_info_policy
+string settings_info_subtitle
+string settings_info_terms
+string settings_logout
+string settings_system_appearance
+string settings_system_licences
+string settings_system_subtitle

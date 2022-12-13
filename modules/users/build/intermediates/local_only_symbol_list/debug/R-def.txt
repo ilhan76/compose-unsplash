@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_common_not_found
+raw japan_scene
+raw lost_coast

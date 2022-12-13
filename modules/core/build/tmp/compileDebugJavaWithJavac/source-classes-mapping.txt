@@ -1,0 +1,58 @@
+hilt_aggregated_deps/_ru_surf_core_di_HttpClientModule.java
+ hilt_aggregated_deps._ru_surf_core_di_HttpClientModule
+ru/surf/core/di/HttpClientModule_ProvideRetrofitFactory.java
+ ru.surf.core.di.HttpClientModule_ProvideRetrofitFactory
+ru/surf/core/di/HttpClientModule_ProvideOkHttpClientFactory.java
+ ru.surf.core.di.HttpClientModule_ProvideOkHttpClientFactory
+ ru.surf.core.di.HttpClientModule_ProvideOkHttpClientFactory$InstanceHolder
+ru/surf/core/BuildConfig.java
+ ru.surf.core.BuildConfig
+ru/surf/core/base/MainViewModel_Factory.java
+ ru.surf.core.base.MainViewModel_Factory
+ru/surf/core/di/ModuleDefault_ProvideCoreSecurityDatabaseFactory.java
+ ru.surf.core.di.ModuleDefault_ProvideCoreSecurityDatabaseFactory
+ru/surf/core/di/ModuleNetwork_ProvideUsersApiServiceFactory.java
+ ru.surf.core.di.ModuleNetwork_ProvideUsersApiServiceFactory
+ru/surf/core/data/dao/SecurityModelDao_Impl.java
+ ru.surf.core.data.dao.SecurityModelDao_Impl
+ ru.surf.core.data.dao.SecurityModelDao_Impl$1
+ ru.surf.core.data.dao.SecurityModelDao_Impl$2
+ ru.surf.core.data.dao.SecurityModelDao_Impl$3
+ ru.surf.core.data.dao.SecurityModelDao_Impl$4
+ ru.surf.core.data.dao.SecurityModelDao_Impl$5
+ru/surf/core/base/MainViewModel_HiltModules_KeyModule_ProvideFactory.java
+ ru.surf.core.base.MainViewModel_HiltModules_KeyModule_ProvideFactory
+ ru.surf.core.base.MainViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+ru/surf/core/data/dao/SettingsModelDao_Impl.java
+ ru.surf.core.data.dao.SettingsModelDao_Impl
+ ru.surf.core.data.dao.SettingsModelDao_Impl$1
+ ru.surf.core.data.dao.SettingsModelDao_Impl$2
+ ru.surf.core.data.dao.SettingsModelDao_Impl$3
+ ru.surf.core.data.dao.SettingsModelDao_Impl$4
+ ru.surf.core.data.dao.SettingsModelDao_Impl$5
+ru/surf/core/di/ModuleDefault_ProvideUsersDataServiceFactory.java
+ ru.surf.core.di.ModuleDefault_ProvideUsersDataServiceFactory
+ru/surf/core/base/MainViewModel_HiltModules.java
+ ru.surf.core.base.MainViewModel_HiltModules
+ ru.surf.core.base.MainViewModel_HiltModules$BindsModule
+ ru.surf.core.base.MainViewModel_HiltModules$KeyModule
+hilt_aggregated_deps/_ru_surf_core_di_ModuleNetwork.java
+ hilt_aggregated_deps._ru_surf_core_di_ModuleNetwork
+ru/surf/core/di/ModuleDefault_ProvideAppDatabaseFactory.java
+ ru.surf.core.di.ModuleDefault_ProvideAppDatabaseFactory
+hilt_aggregated_deps/_ru_surf_core_base_MainViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._ru_surf_core_base_MainViewModel_HiltModules_KeyModule
+ru/surf/core/base/CoreDatabase_Impl.java
+ ru.surf.core.base.CoreDatabase_Impl
+ ru.surf.core.base.CoreDatabase_Impl$1
+hilt_aggregated_deps/_ru_surf_core_di_ModuleDefault.java
+ hilt_aggregated_deps._ru_surf_core_di_ModuleDefault
+hilt_aggregated_deps/_ru_surf_core_base_MainViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._ru_surf_core_base_MainViewModel_HiltModules_BindsModule
+ru/surf/core/di/ModuleNetwork_ProvideCoreApiFactory.java
+ ru.surf.core.di.ModuleNetwork_ProvideCoreApiFactory
+ru/surf/core/di/ModuleDefault_ProvideSharedPreferencesFactory.java
+ ru.surf.core.di.ModuleDefault_ProvideSharedPreferencesFactory
+ru/surf/core/base/CoreSecurityDatabase_Impl.java
+ ru.surf.core.base.CoreSecurityDatabase_Impl
+ ru.surf.core.base.CoreSecurityDatabase_Impl$1

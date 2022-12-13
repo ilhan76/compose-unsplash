@@ -1,0 +1,8 @@
+ <ADInjectorPlugin> Inside ADInjectorPLugin apply
+ <ADInjectorPlugin> Appdynamics will use Transform API to inject.
+ <DependencyInjector> Starting dependency injection
+ <DependencyInjector> You may disable this feature by setting adeum.dependencyInjection.enabled = false in this module's build.gradle.
+ <ADInjectorPlugin> Inside ADInjectorPLugin apply
+ <ADInjectorPlugin> Appdynamics will use Transform API to inject.
+ <DependencyInjector> Starting dependency injection
+ <DependencyInjector> You may disable this feature by setting adeum.dependencyInjection.enabled = false in this module's build.gradle.

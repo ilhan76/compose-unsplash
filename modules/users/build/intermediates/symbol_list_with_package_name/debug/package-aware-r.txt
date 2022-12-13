@@ -1,0 +1,4 @@
+ru.surf.users
+drawable ic_common_not_found
+raw japan_scene
+raw lost_coast

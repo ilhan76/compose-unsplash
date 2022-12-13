@@ -1,0 +1,42 @@
+hilt_aggregated_deps/_ru_surf_users_ui_viewModels_UsersViewModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._ru_surf_users_ui_viewModels_UsersViewModel_HiltModules_BindsModule
+ru/surf/users/ui/viewModels/UsersViewModel_HiltModules_KeyModule_ProvideFactory.java
+ ru.surf.users.ui.viewModels.UsersViewModel_HiltModules_KeyModule_ProvideFactory
+ ru.surf.users.ui.viewModels.UsersViewModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+ru/surf/users/base/UsersDatabase_Impl.java
+ ru.surf.users.base.UsersDatabase_Impl
+ ru.surf.users.base.UsersDatabase_Impl$1
+ru/surf/users/di/ModuleNetwork_ProvideUsersApiServiceFactory.java
+ ru.surf.users.di.ModuleNetwork_ProvideUsersApiServiceFactory
+hilt_aggregated_deps/_ru_surf_users_ui_viewModels_UsersViewModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._ru_surf_users_ui_viewModels_UsersViewModel_HiltModules_KeyModule
+ru/surf/users/di/ModuleDefault_ProvideUsersPreferencesFactory.java
+ ru.surf.users.di.ModuleDefault_ProvideUsersPreferencesFactory
+ru/surf/users/di/ModuleDefault_ProvideUsersDataServiceFactory.java
+ ru.surf.users.di.ModuleDefault_ProvideUsersDataServiceFactory
+ru/surf/users/data/dao/UserModelDao_Impl.java
+ ru.surf.users.data.dao.UserModelDao_Impl
+ ru.surf.users.data.dao.UserModelDao_Impl$1
+ ru.surf.users.data.dao.UserModelDao_Impl$2
+ ru.surf.users.data.dao.UserModelDao_Impl$3
+ ru.surf.users.data.dao.UserModelDao_Impl$4
+ ru.surf.users.data.dao.UserModelDao_Impl$5
+ ru.surf.users.data.dao.UserModelDao_Impl$5$1
+ ru.surf.users.data.dao.UserModelDao_Impl$6
+ ru.surf.users.data.dao.UserModelDao_Impl$7
+hilt_aggregated_deps/_ru_surf_users_di_ModuleNetwork.java
+ hilt_aggregated_deps._ru_surf_users_di_ModuleNetwork
+ru/surf/users/di/ModuleNetwork_ProvideUsersApiFactory.java
+ ru.surf.users.di.ModuleNetwork_ProvideUsersApiFactory
+ru/surf/users/ui/viewModels/UsersViewModel_HiltModules.java
+ ru.surf.users.ui.viewModels.UsersViewModel_HiltModules
+ ru.surf.users.ui.viewModels.UsersViewModel_HiltModules$BindsModule
+ ru.surf.users.ui.viewModels.UsersViewModel_HiltModules$KeyModule
+ru/surf/users/ui/viewModels/UsersViewModel_Factory.java
+ ru.surf.users.ui.viewModels.UsersViewModel_Factory
+hilt_aggregated_deps/_ru_surf_users_di_ModuleDefault.java
+ hilt_aggregated_deps._ru_surf_users_di_ModuleDefault
+ru/surf/users/di/ModuleDefault_ProvideUsersDatabaseFactory.java
+ ru.surf.users.di.ModuleDefault_ProvideUsersDatabaseFactory
+ru/surf/users/BuildConfig.java
+ ru.surf.users.BuildConfig

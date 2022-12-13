@@ -1,0 +1,3 @@
+int drawable ic_common_not_found 0x0
+int raw japan_scene 0x0
+int raw lost_coast 0x0
